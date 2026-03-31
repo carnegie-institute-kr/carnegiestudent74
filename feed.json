@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oliver&#x27;s Creative Portfolio",
+    "description": "",
+    "home_page_url": "https://carnegie-institute-kr.github.io/carnegiestudent74",
+    "feed_url": "https://carnegie-institute-kr.github.io/carnegiestudent74/feed.json",
+    "user_comment": "",
+    "icon": "https://carnegie-institute-kr.github.io/carnegiestudent74/media/website/logo-img.png",
+    "author": {
+        "name": "Carnegie Student"
+    },
+    "items": [
+    ]
+}
